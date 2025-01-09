@@ -182,12 +182,11 @@ nav a {
   font-weight: bold ;
   font-size: 15px;
   margin-top: 5px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 footer {
   font-family: 'syne' ;
   width: 100%;
-  padding-top: 40px;
   margin-top: 40px;
   bottom: 0;
   position: fixed;
